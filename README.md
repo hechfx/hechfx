@@ -10,5 +10,5 @@
 
 - ➖ You can call me by the pronoun you want, honestly i don't care much about it ^^
 
-![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=hechfx&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hechfx&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hechfx&layout=compact&theme=dracula)
