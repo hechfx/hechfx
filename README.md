@@ -1,6 +1,6 @@
 # 👋 Hello! 👋
 
-- ➖ My name is [REDACTED] but you can call me Hech and i have 15 years!
+- ➖ My name is André but you can call me Hech and i have 15 years!
 
 - ➖ I'm a teenager who loves to program things, usually i love a challenge! ༼ つ ◕_◕ ༽つ
 
