@@ -1,6 +1,6 @@
 # 👋 Hello! 👋
 
-- ➖ My name is [REDACTED] but you can call me Hech and i have 15 years!
+- ➖ My name is [REDACTED] but you can call me Hech and i have 16 years!
 
 - ➖ I'm learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)), but i know a little of [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript) and [TypeScript](https://en.wikipedia.org/wiki/TypeScript)!
 
