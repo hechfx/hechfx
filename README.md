@@ -1,4 +1,4 @@
-# 👋 Hello! 👋
+# 👋 yo
 
 - ➖ My name is [REDACTED] but you can call me Hech and i have 16 years!
 
