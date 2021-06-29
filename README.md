@@ -1,14 +1,19 @@
-# 👋 yo
+# Howdy!
 
-- ➖ My name is [REDACTED] but you can call me Hech and i have 16 years!
+* 🙋‍♂️ (He/Him) 16 years;
+* ✏️ Learning Kotlin and Java;
+* 💁‍♂️ [Loritta](https://loritta.website)'s Support since 24/04/2020;
+* 🍰 My cake day is in 19/03
 
-- ➖ I'm learning [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)), but i know a little of [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript) and [TypeScript](https://en.wikipedia.org/wiki/TypeScript)!
+## Social Media
+* 🐦 Twitter: https://twitter.com/hechfx
 
-- ➖ I've been programming for a bot called Loritta, she is a great bot. If you want to add it, just click [here](https://loritta.website/)! She's open source too, if you want to see her code just click [here](https://github.com/LorittaBot/Loritta)!
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hechfx&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hechfx&layout=compact&theme=dracula)
-
-<p align="center">
-<img src="https://cdn.discordapp.com/emojis/783542677891317780.gif">
-<br>
+## Special Thanks
+* ❤️ MrPowerGamerBR: https://github.com/MrPowerGamerBr
+* ❤️ Breno Santos: https://github.com/santosbpd
+* ❤️ DanielaGC_: https://github.com/DanielaGC
+* ❤️ Arth: https://twitter.com/souarth
+* ❤️ Nightdavisao: https://github.com/Nightdavisao
+* ❤️ PeterStark000: https://twitter.com/PeterStark000
+* ❤️ Kaike Carlos: https://github.com/kaikecarlos2
+* ❤️ And all people from Loritta's Server!
