@@ -1,14 +1,14 @@
-# Howdy!
-
+> # Howdy!
 * 🙋‍♂️ (He/Him) 16 years;
 * ✏️ Learning Kotlin and Java;
 * 💁‍♂️ [Loritta](https://loritta.website)'s Support since 24/04/2020;
 * 🍰 My cake day is in 19/03
 
-## Social Media
+> ## Social Media
 * 🐦 Twitter: https://twitter.com/hechfx
+* 💁‍♂️ Discord: hechfx#9336
 
-## Special Thanks
+> ## Special Thanks
 * ❤️ MrPowerGamerBR: https://github.com/MrPowerGamerBr
 * ❤️ Breno Santos: https://github.com/santosbpd
 * ❤️ DanielaGC_: https://github.com/DanielaGC
