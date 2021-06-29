@@ -16,4 +16,5 @@
 * ❤️ Nightdavisao: https://github.com/Nightdavisao
 * ❤️ PeterStark000: https://twitter.com/PeterStark000
 * ❤️ Kaike Carlos: https://github.com/kaikecarlos2
+* ❤️ joaoesteves10: https://twitter.com/joaoesteves10A5
 * ❤️ And all people from Loritta's Server!
