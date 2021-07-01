@@ -1,6 +1,5 @@
 > # 🚀 Howdy!
-* 🙋‍♂️ (He/Him) 16 years
-* ✏️ Learning Kotlin and Java
+* 🙋‍♂️ (Kt/Java) 16 years
 * 💁‍♂️ [Loritta](https://loritta.website)'s Support since 24/04/2020
 * 🍰 My cake day is in 19/03
 
