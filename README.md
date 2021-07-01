@@ -11,6 +11,7 @@
 > ## Special Thanks
 * ❤️ MrPowerGamerBR: https://github.com/MrPowerGamerBr
 * ❤️ Breno Santos: https://github.com/santosbpd
+* ❤️ Nekkan: https://github.com/nekkan
 * ❤️ DanielaGC_: https://github.com/DanielaGC
 * ❤️ Arth: https://twitter.com/souarth
 * ❤️ Nightdavisao: https://github.com/Nightdavisao
