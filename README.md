@@ -8,6 +8,7 @@
 * 💁‍♂️ Discord: hechfx#9336
 
 > ## ❤️ Special Thanks
+* ❤️ PanKessy (My Beloved): https://github.com/PanKessy
 * ❤️ MrPowerGamerBR: https://github.com/MrPowerGamerBr
 * ❤️ Breno Santos: https://github.com/santosbpd
 * ❤️ nekkan: https://github.com/nekkan
