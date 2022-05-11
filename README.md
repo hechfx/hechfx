@@ -4,8 +4,8 @@
 * 🍰 My cake day is in 19/03
 
 > ## 📌 Social Media
-* 🐦 Twitter: https://twitter.com/hechfx
-* 💁‍♂️ Discord: hechfx#9336
+* 🐦 Twitter: https://twitter.com/brviictoor
+* 💁‍♂️ Discord: andyvictor#9336
 
 > ## ❤️ Special Thanks
 * ❤️ PanKessy (My Beloved): https://github.com/PanKessy
