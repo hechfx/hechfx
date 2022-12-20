@@ -1,11 +1,10 @@
 > # 🚀 Howdy!
-* 🙋‍♂️ (Kotlin/Java) 17 years
-* 💁‍♂️ [Loritta](https://loritta.website)'s Support since 24/04/2020
+* 🙋‍♂️ (Kotlin/Java/JavaScript) 17 years
 * 🍰 My cake day is in 19/03
 
 > ## 📌 Social Media
 * 🐦 Twitter: https://twitter.com/brviictoor
-* 💁‍♂️ Discord: andyvictor#9336
+* 💁‍♂️ Discord: hechfx#0729
 
 > ## ❤️ Special Thanks
 * ❤️ PanKessy (My Beloved): https://github.com/PanKessy
